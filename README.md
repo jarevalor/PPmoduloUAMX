@@ -1,4 +1,4 @@
 PPmoduloUAMX
 ============
 
-Modulo Produccion Primaria Lic. Biologia Universidad Autonoma Metropolitana Xochimilco, Mexico, D. F. 
+Módulo Producción Primaria, Lic. Biología Universidad Autónoma Metropolitana unidad Xochimilco, Mexico, D. F.
